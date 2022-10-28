@@ -6,9 +6,10 @@
 
   (title_block
     (title "Power")
-    (date "2022-10-26")
-    (rev "v0.1")
+    (date "2022-10-29")
+    (rev "v0.2")
     (company "Nanjing wuyou electronic technology company")
+    (comment 1 "first init")
   )
 
   (lib_symbols
@@ -737,7 +738,6 @@
       )
     )
   )
-
 
   (junction (at 173.99 64.77) (diameter 0) (color 0 0 0 0)
     (uuid 08abbc95-b6d8-44d6-afdf-96892c1930fc)
